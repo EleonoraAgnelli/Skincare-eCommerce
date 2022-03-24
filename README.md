@@ -16,7 +16,7 @@ Creating the front page of an eCommerce website in HTML, CSS and JavaScript
 
 This project showcase the front page of a Skincare eCommerce website. 
 The layout is as follows:
-- a header with the logo, name and short slogan of the brand
+- a header with the logo and name of the brand
 - a body composed of 12 products with relevant names and prices
 - a footer with a short description of the purpose of the brand and various fake links (Google search page opens in a new tab)
 
